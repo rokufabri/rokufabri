@@ -1,40 +1,40 @@
 <h1>Fabrizio Alekzander Quispe Rueda</h1>
-<h2>Desarrollador de Software</h2>
-<h3>Contacto: +51 963035217</h3>
+<h2>Software Developer</h2>
+<h3>Contact: +51 963035217</h3>
 
-<h2>Objetivo Personal</h2>
-<p>Programador junior con pasión por la tecnología y el desarrollo de software. Busco una oportunidad para aplicar mis habilidades y conocimientos en un entorno profesional, aprender de expertos en el campo y contribuir al éxito de proyectos desafiantes.</p>
+<h2>Personal Objective</h2>
+<p>Junior programmer with a passion for technology and software development. I am looking for an opportunity to apply my skills and knowledge in a professional environment, learn from experts in the field and contribute to the success of challenging projects.</p>
 
-<h2>Educación</h2>
-<p>Desarrollador de Software</p>
-<p>Instituto Técnológico SENATI</p>
+<h2>Education</h2>
+<p>Software Developer</p>
+<p>SENATI Technological Institute</p>
 
-<h1>Experiencia Laboral</h2>
-<h3>Consultora Ambiental Jazani S.A.C</h3>
-<span>02/03/2022 a 10/07/2022</span>
+<h1>Work Experience</h2>
+<h3>Environmental Consulting Jazani S.A.C</h3>
+<span>03/02/2022 to 07/10/2022</span>
 <p>
-Desarrollo e implementación de componentes de los módulos del
-SISCAT WEB. Elaboración de pruebas y ajustes de SISCAT WEB, manejo
-de levantamiento de servidores IIS. Crear la producción del aplicativo
-en servidores respectivos.
-Tecnologías usadas fueron las siguientes JAVASCRIPT, REACT.JS,
-ORACLE, NETCORE, SERVIDOR IIS.
+Development and implementation of components of the modules of the
+SISCAT WEB. Preparation of tests and adjustments of SISCAT WEB, management
+of raising IIS servers. Create the production of the application
+on respective servers.
+Technologies used were the following JAVASCRIPT, REACT.JS,
+ORACLE, NETCORE, IIS SERVER.
 </p>
 
-<h3>VIAJES PACÍFICO – AGENCIA DE VIAJES</h3>
-<span>13/07/2022 a 15/03/2022</span>
+<h3>PACÍFICO TRAVEL – TRAVEL AGENCY</h3>
+<span>07/13/2022 to 03/15/2022</span>
 <p>
-Desarrollo de Aplicativo Movil para los clientes de la empresa la cual
-visualizan todos sus servicios dependiendo del usuario.Creación de
-cuentas de Play Store así como el mantenimiento de las bases de
-datos con sus respectivos servidores IIS.
-Tecnologías usadas fueron las siguientes ANDROID STUDIO, JAVA,
-NETCORE, ORACLE , SERVIDOR IIS
+Development of Mobile Application for the company's clients which
+They display all their services depending on the user. Creation of
+Play Store accounts as well as the maintenance of the databases
+data with their respective IIS servers.
+Technologies used were the following ANDROID STUDIO, JAVA,
+NETCORE, ORACLE, IIS SERVER
 </p>
 
-<h3>Areá de conocimientos</h3>
-<li>Desarrollo Frontend</li>
-<li>Manejo de Base de Datos relacionales</li>
-<li>Conocimientos en PHP</li>
-<li>Documentación de servicios APIRESTFULL</li>
-<li>Conocimientos de GIT.</li>
+<h3>Knowledge area</h3>
+<li>Frontend Development</li>
+<li>Relational Database Management</li>
+<li>Knowledge of PHP</li>
+<li>APIRETFULL service documentation</li>
+<li>Knowledge of GIT.</li>
